@@ -1,6 +1,6 @@
 # Cadastro de Produtos de Limpeza
 Programa de cadastro de produtos de limpeza feito em C para aplicação dos conceitos de Struct, como parte
-da 2ª avaliação da matéria de Linguagem de Programação
+da 2ª avaliação da matéria de Linguagem de Programação.
 
 ## Funções
 
